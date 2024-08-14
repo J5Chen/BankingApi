@@ -24,5 +24,5 @@ Additional Endpoints
 
 ## Assumptions
 
-    *Value of transaction can't be negative
-    *Each account needs a First and Last Name
+    - Value of transaction can't be negative
+    - Each account needs a First and Last Name
