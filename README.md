@@ -21,3 +21,8 @@ Transaction Endpoints
 Additional Endpoints
 
     POST /api/accounts/transfer - Handles a Transactions.
+
+## Assumptions
+
+    *Value of transaction can't be negative
+    *Each account needs a First and Last Name
